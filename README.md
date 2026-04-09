@@ -23,5 +23,5 @@ Más de 10 años en:
 ## 🌐 Contacto
 - 📧 Email: TU_CORREO
 - 📱 Teléfono: +56988150214
-- 🔗 LinkedIn: TU_LINK
+- 🔗 LinkedIn: www.linkedin.com/in/rodrigo-andrés-ramírez-balmaceda-92970b218
 - 💻 Portafolio: https://rodigoramirez.github.io
